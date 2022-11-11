@@ -1,3 +1,5 @@
+# Awesome list of Suricata resources
+
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
@@ -11,10 +13,9 @@
 - [suricata-kafka-output](https://github.com/Center-Sun/suricata-kafka-output) - Suricata Eve Kafka Output Plugin for Suricata 6.0.x.
 - [FEVER](https://github.com/DCSO/fever) - Fast, extensible, versatile event router for Suricata's EVE-JSON format.
 
+## Misc Tools
 
-## Configuration
-
-
+- [slinkwatch](https://github.com/DCSO/slinkwatch) - automatic enumeration and maintenance of Suricata monitoring interfaces.
 
 ## Libraries and toolkits
 
@@ -35,26 +36,13 @@
 - [suricata-ls-vscode](https://github.com/StamusNetworks/suricata-ls-vscode) - Suricata IntelliSense Extension using the Suricata Language Server.
 - [suricata-highlight-vscode](https://github.com/dgenzer/suricata-highlight-vscode) - Suricata Rules Support for Visual Studio Code (syntax highlighting, ...).
 
-# xxxx...
+## Documentation and Guides
+
+- [suricata-4-analysts](https://github.com/StamusNetworks/suricata-4-analysts) - The Security Analyst’s Guide to Suricata.
+
+## Analysis tools
 
 - [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) - Various resources that are useful when interacting with Suricata data.
-- [suricata-4-analysts](https://github.com/StamusNetworks/suricata-4-analysts) - The Security Analyst’s Guide to Suricata.
-- []() - .
-
-- []() - .
-
-- []() - .
-
-- []() - .
-
-- []() - .
-
-- []() - .
-
-- []() - .
-
-- []() - .
-- []() - .
 
 
 ## Rule sets
