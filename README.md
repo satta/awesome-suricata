@@ -2,6 +2,24 @@
 
 > Awesome things somehow related to [Suricata IDS](https://suricata.io/).
 
+## Contents
+
+- [Input Tools](#input-tools)
+- [Output Tools](#output-tools)
+- [Operations, Monitoring and Troubleshooting](#operations-monitoring-and-troubleshooting)
+- [Programming libraries and toolkits](#programming-libraries-and-toolkits)
+- [Dashboards and Templates](#development-tools)
+- [Documentation and Guides](#documentation-and-guides)
+- [Analysis tools](#analysis-tools)
+- [Rule sets](#rule-sets)
+- [Rule/security content management and handling](#rulesecurity-content-management-and-handling)
+- [Systems using Suricata](#systems-using-suricata)
+- [Training](#training)
+- [Simulation and Testing](#simulation-and-testing)
+- [Data sets](#data-sets)
+- [Misc](#misc)
+
+
 ## Input Tools
 
 - [PacketStreamer](https://github.com/deepfence/PacketStreamer) - Distributed tcpdump for cloud native environments.
