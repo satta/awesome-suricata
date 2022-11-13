@@ -40,7 +40,7 @@ Contributions are welcome, please feel free to send a PR!
 
 ## Operations, Monitoring and Troubleshooting
 
-- [slinkwatch](https://github.com/DCSO/slinkwatch) - automatic enumeration and maintenance of Suricata monitoring interfaces.
+- [slinkwatch](https://github.com/DCSO/slinkwatch) - Automatic enumeration and maintenance of Suricata monitoring interfaces.
 - [suri-stats](https://github.com/regit/suri-stats) - A tool to work on suricata `stats.log` file.
 - [Mauerspecht](https://github.com/DCSO/mauerspecht) - Simple Probing Tool for Corporate Walled Garden Networks.
 - [ansible-suricata](https://github.com/GitMirar/ansible-suricata) - Suricata Ansible role (slightly outdated).
@@ -94,7 +94,7 @@ Contributions are welcome, please feel free to send a PR!
 - [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) - Collection of various open-source and commercial rulesets.
 - [Stamus Lateral Movement Detection Rules](https://ti.stamus-networks.io/open/stamus-lateral-rules.tar.gz) - Suricata ruleset to detect lateral movement.
 - [Cluster25/detection](https://github.com/Cluster25/detection) - Cluster25's detection rules.
-- [QuadrantSec Suricata rules](https://github.com/quadrantsec/suricata-rules) - QuadrantSec's Suricata rules.
+- [QuadrantSec Suricata Rules](https://github.com/quadrantsec/suricata-rules) - QuadrantSec's Suricata rules.
 
 
 ## Rule/security content management and handling
