@@ -2,6 +2,8 @@
 
 > Awesome things somehow related to [Suricata IDS](https://suricata.io/).
 
+Contributions are welcome, please feel free to send a PR!
+
 ## Contents
 
 - [Input Tools](#input-tools)
