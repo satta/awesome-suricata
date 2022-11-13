@@ -93,8 +93,8 @@ Contributions are welcome, please feel free to send a PR!
 
 - [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) - Collection of various open-source and commercial rulesets.
 - [Stamus Lateral Movement Detection Rules](https://ti.stamus-networks.io/open/stamus-lateral-rules.tar.gz) - Suricata ruleset to detect lateral movement.
+- [QuadrantSec Suricata Rules](https://github.com/quadrantsec/suricata-rules) - QuadrantSec Suricata rules.
 - [Cluster25/detection](https://github.com/Cluster25/detection) - Cluster25's detection rules.
-- [QuadrantSec Suricata Rules](https://github.com/quadrantsec/suricata-rules) - QuadrantSec's Suricata rules.
 
 
 ## Rule/security content management and handling
