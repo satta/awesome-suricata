@@ -1,7 +1,4 @@
-# Awesome Suricata
-
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
+# Awesome Suricata [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 > Awesome things somehow related to [Suricata IDS](https://suricata.io/).
 
@@ -74,7 +71,7 @@ Contributions are welcome, please feel free to send a PR!
 
 - [Suricata Language Server](https://github.com/StamusNetworks/suricata-language-server) - Suricata Language Server is an implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
 - [suricata-ls-vscode](https://github.com/StamusNetworks/suricata-ls-vscode) - Suricata IntelliSense Extension using the Suricata Language Server.
-- [suricata-highlight-vscode](https://github.com/dgenzer/suricata-highlight-vscode) - Suricata Rules Support for Visual Studio Code (syntax highlighting, ...).
+- [suricata-highlight-vscode](https://github.com/dgenzer/suricata-highlight-vscode) - Suricata Rules Support for Visual Studio Code (syntax highlighting, etc).
 - [SublimeSuricata](https://github.com/regit/SublimeSuricata) - Basic Suricata syntax highlighter for Sublime Text 3.
 
 
@@ -82,14 +79,14 @@ Contributions are welcome, please feel free to send a PR!
 
 - [SEPTun](https://github.com/pevma/SEPTun) - Suricata Extreme Performance Tuning guide.
 - [SEPTun-Mark-II](https://github.com/pevma/SEPTun-Mark-II) - Suricata Extreme Performance Tuning guide - Mark II.
-- [suricata-4-analysts](https://github.com/StamusNetworks/suricata-4-analysts) - The Security Analyst’s Guide to Suricata.
+- [suricata-4-analysts](https://github.com/StamusNetworks/suricata-4-analysts) - The Security Analyst's Guide to Suricata.
 
 
 ## Analysis tools
 
 - [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) - Various resources that are useful when interacting with Suricata data.
 - [Malcolm](https://github.com/cisagov/Malcolm) - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
-- [Evebox](https://github.com/jasonish/evebox) - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search
+- [Evebox](https://github.com/jasonish/evebox) - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 
 
 ## Rule sets
@@ -103,7 +100,7 @@ Contributions are welcome, please feel free to send a PR!
 ## Rule/security content management and handling
 
 - [sidallocation.org](https://sidallocation.org/) - Sid Allocation working group, list of SID ranges.
-- [Scirius](https://github.com/StamusNetworks/scirius) - web application for Suricata ruleset management and threat hunting.
+- [Scirius](https://github.com/StamusNetworks/scirius) - Web application for Suricata ruleset management and threat hunting.
 - [IOCmite](https://github.com/sebdraven/IOCmite) - Tool to create dataset for suricata with indicators of MISP instances and add sightings in MISP if an indicator of dataset generates an alert.
 - [luaevilbit](https://github.com/regit/luaevilbit) - An Evil bit implementation in luajit for Suricata.
 - [Lawmaker](https://www.3coresec.com/lawmaker) - Suricata IDS rule management system.
@@ -126,7 +123,7 @@ Contributions are welcome, please feel free to send a PR!
 ## Simulation and Testing
 
 - [Leonidas](https://github.com/WithSecureLabs/leonidas) - Automated Attack Simulation in the Cloud, complete with detection use cases.
-- [speeve](https://github.com/satta/speeve) -  fast, probabilistic EVE-JSON generator for testing and benchmarking of EVE-consuming applications.
+- [speeve](https://github.com/satta/speeve) - Fast, probabilistic EVE-JSON generator for testing and benchmarking of EVE-consuming applications.
 - [Dalton](https://github.com/secureworks/dalton) - Suricata and Snort IDS rule and pcap testing system.
 
 
