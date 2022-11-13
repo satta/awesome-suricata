@@ -1,4 +1,7 @@
-# Awesome list of Suricata resources [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Suricata
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 > Awesome things somehow related to [Suricata IDS](https://suricata.io/).
 
@@ -10,7 +13,8 @@ Contributions are welcome, please feel free to send a PR!
 - [Output Tools](#output-tools)
 - [Operations, Monitoring and Troubleshooting](#operations-monitoring-and-troubleshooting)
 - [Programming libraries and toolkits](#programming-libraries-and-toolkits)
-- [Dashboards and Templates](#development-tools)
+- [Dashboards and Templates](#dashboards-and-templates)
+- [Development Tools](#development-tools)
 - [Documentation and Guides](#documentation-and-guides)
 - [Analysis tools](#analysis-tools)
 - [Rule sets](#rule-sets)
