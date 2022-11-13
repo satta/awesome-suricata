@@ -1,7 +1,6 @@
-# Awesome list of Suricata resources
+# Awesome list of Suricata resources [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
+> Awesome things somehow related to [Suricata IDS](https://suricata.io/).
 
 ## Input Tools
 
