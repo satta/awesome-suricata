@@ -95,6 +95,10 @@ Contributions are welcome, please feel free to send a PR!
 - [Stamus Lateral Movement Detection Rules](https://ti.stamus-networks.io/open/stamus-lateral-rules.tar.gz) - Suricata ruleset to detect lateral movement.
 - [QuadrantSec Suricata Rules](https://github.com/quadrantsec/suricata-rules) - QuadrantSec Suricata rules.
 - [Cluster25/detection](https://github.com/Cluster25/detection) - Cluster25's detection rules.
+- Networkforensic.dk (NF) rules sets: 
+  - [NF IDS rules](https://networkforensic.dk/SNORT/NF-local.zip)
+  - [NF SCADA IDS Rules](https://networkforensic.dk/SNORT/NF-SCADA.zip)
+  - [NF Scanners IDS Rules](https://networkforensic.dk/SNORT/NF-Scanners.zip)
 
 
 ## Rule/security content management and handling
