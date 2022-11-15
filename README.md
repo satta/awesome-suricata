@@ -48,6 +48,7 @@ Contributions are welcome, please feel free to send a PR!
 - [docker-suricata](https://github.com/jasonish/docker-suricata) - Suricata Docker image.
 - [Suricata-Monitoring](https://github.com/VVelox/Suricata-Monitoring) - LibreNMS JSON / Nagios monitor for Suricata stats.
 - [Terraform Module for Suricata](https://github.com/onetwopunch/terraform-google-suricata) - Terraform module to setup Google Cloud packet mirroring and send packets to Suricata IDS.
+- [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 
 ## Programming libraries and toolkits
 
