@@ -101,6 +101,7 @@ Contributions are welcome, please feel free to send a PR!
   - [NF IDS rules](https://networkforensic.dk/SNORT/NF-local.zip)
   - [NF SCADA IDS Rules](https://networkforensic.dk/SNORT/NF-SCADA.zip)
   - [NF Scanners IDS Rules](https://networkforensic.dk/SNORT/NF-Scanners.zip)
+- [Quantum Insert detection for Suricata](https://github.com/fox-it/quantuminsert/blob/master/detection/suricata/README.md) - Suricata rules accompanying Fox-IT's QUANTUM 2015 blog/BroCon talk.
 
 
 ## Rule/security content management and handling
