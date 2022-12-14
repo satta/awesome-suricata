@@ -1,6 +1,6 @@
 # Awesome Suricata [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-> Awesome things somehow related to [Suricata IDS](https://suricata.io/).
+> [Suricata IDS](https://suricata.io/) is a free intrusion detection/prevention system and network security monitoring engine.
 
 Contributions are welcome, please feel free to send a PR!
 
