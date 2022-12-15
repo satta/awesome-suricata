@@ -134,7 +134,7 @@
 - [Dalton](https://github.com/secureworks/dalton) - Suricata and Snort IDS rule and pcap testing system.
 
 
-## Data sets
+## Data Sets
 
 - [suricata-sample-data](https://github.com/FrankHassanabad/suricata-sample-data) - Repository of creating different example suricata data sets.
 
