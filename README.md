@@ -9,17 +9,17 @@
 - [Input Tools](#input-tools)
 - [Output Tools](#output-tools)
 - [Operations, Monitoring and Troubleshooting](#operations-monitoring-and-troubleshooting)
-- [Programming libraries and toolkits](#programming-libraries-and-toolkits)
+- [Programming Libraries and Toolkits](#programming-libraries-and-toolkits)
 - [Dashboards and Templates](#dashboards-and-templates)
 - [Development Tools](#development-tools)
 - [Documentation and Guides](#documentation-and-guides)
-- [Analysis tools](#analysis-tools)
-- [Rule sets](#rule-sets)
-- [Rule/security content management and handling](#rulesecurity-content-management-and-handling)
-- [Systems using Suricata](#systems-using-suricata)
+- [Analysis Tools](#analysis-tools)
+- [Rule Sets](#rule-sets)
+- [Rule/Security Content Management and Handling](#rulesecurity-content-management-and-handling)
+- [Systems Using Suricata](#systems-using-suricata)
 - [Training](#training)
 - [Simulation and Testing](#simulation-and-testing)
-- [Data sets](#data-sets)
+- [Data Sets](#data-sets)
 - [Misc](#misc)
 
 
@@ -51,7 +51,7 @@
 - [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 - [suricata_exporter](https://github.com/corelight/suricata_exporter) - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
 
-## Programming libraries and toolkits
+## Programming Libraries and Toolkits
 
 - [rust-suricatax-rule-parser](https://github.com/jasonish/rust-suricatax-rule-parser) - Experimental Suricata Rule Parser in Rust.
 - [go-suricata](https://github.com/ks2211/go-suricata) - Go Client for Suricata (Interacting via Socket).
@@ -84,14 +84,14 @@
 - [suricata-4-analysts](https://github.com/StamusNetworks/suricata-4-analysts) - The Security Analyst's Guide to Suricata.
 
 
-## Analysis tools
+## Analysis Tools
 
 - [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) - Various resources that are useful when interacting with Suricata data.
 - [Malcolm](https://github.com/cisagov/Malcolm) - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 - [Evebox](https://github.com/jasonish/evebox) - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 
 
-## Rule sets
+## Rule Sets
 
 - [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) - Collection of various open-source and commercial rulesets.
 - [Stamus Lateral Movement Detection Rules](https://ti.stamus-networks.io/open/stamus-lateral-rules.tar.gz) - Suricata ruleset to detect lateral movement.
@@ -104,7 +104,7 @@
 - [Quantum Insert detection for Suricata](https://github.com/fox-it/quantuminsert/blob/master/detection/suricata/README.md) - Suricata rules accompanying Fox-IT's QUANTUM 2015 blog/BroCon talk.
 
 
-## Rule/security content management and handling
+## Rule/Security Content Management and Handling
 
 - [sidallocation.org](https://sidallocation.org/) - Sid Allocation working group, list of SID ranges.
 - [Scirius](https://github.com/StamusNetworks/scirius) - Web application for Suricata ruleset management and threat hunting.
@@ -116,7 +116,7 @@
 - [OTX-Suricata](https://github.com/AlienVault-OTX/OTX-Suricata) - Create rules and configuration for Suricata to alert on indicators from an OTX account.
 
 
-## Systems using Suricata
+## Systems Using Suricata
 
 - [SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro.
 - [Amsterdam](https://github.com/StamusNetworks/Amsterdam) - Docker based Suricata, Elasticsearch, Logstash, Kibana, Scirius aka SELKS.
