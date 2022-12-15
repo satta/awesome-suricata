@@ -1,4 +1,4 @@
-# Awesome Suricata [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
+# Awesome Suricata [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > Curated list of awesome things related to Suricata.
 
