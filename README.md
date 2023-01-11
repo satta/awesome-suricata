@@ -96,7 +96,7 @@ Suricata is a free intrusion detection/prevention system and network security mo
 ## Rule Sets
 
 - [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) - Collection of various open-source and commercial rulesets.
-- [Stamus Lateral Movement Detection Rules](https://ti.stamus-networks.io/open/stamus-lateral-rules.tar.gz) - Suricata ruleset to detect lateral movement.
+- [Stamus Lateral Movement Detection Rules](https://www.stamus-networks.com/blog/new-open-ruleset-for-detecting-lateral-movement-with-suricata) - Suricata ruleset to detect lateral movement.
 - [QuadrantSec Suricata Rules](https://github.com/quadrantsec/suricata-rules) - QuadrantSec Suricata rules.
 - [Cluster25/detection](https://github.com/Cluster25/detection) - Cluster25's detection rules.
 - Networkforensic.dk (NF) rules sets: 
