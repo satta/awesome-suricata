@@ -76,7 +76,7 @@ Suricata is a free intrusion detection/prevention system and network security mo
 - [Suricata Language Server](https://github.com/StamusNetworks/suricata-language-server) - Suricata Language Server is an implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
 - [suricata-ls-vscode](https://github.com/StamusNetworks/suricata-ls-vscode) - Suricata IntelliSense Extension using the Suricata Language Server.
 - [suricata-highlight-vscode](https://github.com/dgenzer/suricata-highlight-vscode) - Suricata Rules Support for Visual Studio Code (syntax highlighting, etc).
-- [SublimeSuricata](https://github.com/regit/SublimeSuricata) - Basic Suricata syntax highlighter for Sublime Text 3.
+- [SublimeSuricata](https://github.com/ozuriexv/SublimeSuricata) - Basic Suricata syntax highlighter for Sublime Text.
 
 
 ## Documentation and Guides
