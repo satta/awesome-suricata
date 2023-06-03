@@ -104,6 +104,7 @@ Suricata is a free intrusion detection/prevention system and network security mo
   - [NF SCADA IDS Rules](https://networkforensic.dk/SNORT/NF-SCADA.zip)
   - [NF Scanners IDS Rules](https://networkforensic.dk/SNORT/NF-Scanners.zip)
 - [Quantum Insert detection for Suricata](https://github.com/fox-it/quantuminsert/blob/master/detection/suricata/README.md) - Suricata rules accompanying Fox-IT's QUANTUM 2015 blog/BroCon talk.
+- [Hunting rules](https://github.com/travisbgreen/hunting-rules) - Suricata IDS alert rules for network anomaly detection from Travis Green
 
 
 ## Rule/Security Content Management and Handling
@@ -122,11 +123,14 @@ Suricata is a free intrusion detection/prevention system and network security mo
 
 - [SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro.
 - [Amsterdam](https://github.com/StamusNetworks/Amsterdam) - Docker based Suricata, Elasticsearch, Logstash, Kibana, Scirius aka SELKS.
+- [pfSense](https://www.pfsense.org/) - Is a free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality.
+- [OPNsense](https://opnsense.org) - Is an open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform.
 
 
 ## Training
 
 - [Experimental Suricata Training Environment](https://github.com/jasonish/experimental-suricata-training) - Experimental Suricata Training Environment.
+- [CDMCS](https://github.com/ccdcoe/CDMCS/tree/master) - Cyber Defence Monitoring Course: Rule-based Threat Detection
 
 
 ## Simulation and Testing
