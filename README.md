@@ -123,8 +123,8 @@ Suricata is a free intrusion detection/prevention system and network security mo
 
 - [SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro.
 - [Amsterdam](https://github.com/StamusNetworks/Amsterdam) - Docker based Suricata, Elasticsearch, Logstash, Kibana, Scirius aka SELKS.
-- [pfSense](https://www.pfsense.org/) - Is a free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality.
-- [OPNsense](https://opnsense.org) - Is an open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform.
+- [pfSense](https://www.pfsense.org) - A free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality.
+- [OPNsense](https://opnsense.org) - An open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform.
 
 
 ## Training
