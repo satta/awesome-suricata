@@ -104,7 +104,7 @@ Suricata is a free intrusion detection/prevention system and network security mo
   - [NF SCADA IDS Rules](https://networkforensic.dk/SNORT/NF-SCADA.zip)
   - [NF Scanners IDS Rules](https://networkforensic.dk/SNORT/NF-Scanners.zip)
 - [Quantum Insert detection for Suricata](https://github.com/fox-it/quantuminsert/blob/master/detection/suricata/README.md) - Suricata rules accompanying Fox-IT's QUANTUM 2015 blog/BroCon talk.
-- [Hunting rules](https://github.com/travisbgreen/hunting-rules) - Suricata IDS alert rules for network anomaly detection from Travis Green
+- [Hunting rules](https://github.com/travisbgreen/hunting-rules) - Suricata IDS alert rules for network anomaly detection from Travis Green.
 
 
 ## Rule/Security Content Management and Handling
