@@ -4,7 +4,7 @@
 
 > Curated list of awesome things related to Suricata.
 
-Suricata is a free intrusion detection/prevention system and network security monitoring engine.
+Suricata is a free intrusion detection/prevention system (IDS/IPS) and network security monitoring engine.
 
 ## Contents
 
@@ -49,7 +49,7 @@ Suricata is a free intrusion detection/prevention system and network security mo
 - [MassDeploySuricata](https://github.com/pevma/MassDeploySuricata) - Mass deploy and update Suricata IDPS using Ansible IT automation platform.
 - [docker-suricata](https://github.com/jasonish/docker-suricata) - Suricata Docker image.
 - [Suricata-Monitoring](https://github.com/VVelox/Suricata-Monitoring) - LibreNMS JSON / Nagios monitor for Suricata stats.
-- [Terraform Module for Suricata](https://github.com/onetwopunch/terraform-google-suricata) - Terraform module to setup Google Cloud packet mirroring and send packets to Suricata IDS.
+- [Terraform Module for Suricata](https://github.com/onetwopunch/terraform-google-suricata) - Terraform module to setup Google Cloud packet mirroring and send packets to Suricata.
 - [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 - [suricata_exporter](https://github.com/corelight/suricata_exporter) - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
 
@@ -57,7 +57,7 @@ Suricata is a free intrusion detection/prevention system and network security mo
 
 - [rust-suricatax-rule-parser](https://github.com/jasonish/rust-suricatax-rule-parser) - Experimental Suricata Rule Parser in Rust.
 - [go-suricata](https://github.com/ks2211/go-suricata) - Go Client for Suricata (Interacting via Socket).
-- [gonids](https://github.com/google/gonids) - Go library to parse IDS rules for engines like Snort and Suricata.
+- [gonids](https://github.com/google/gonids) - Go library to parse intrusion detection rules for engines like Snort and Suricata.
 - [surevego](https://github.com/rhaist/surevego) - Suricata EVE-JSON parser in Go.
 - [suricataparser](https://github.com/m-chrome/py-suricataparser) - Pure python parser for Snort/Suricata rules.
 - [py-idstools](https://github.com/jasonish/py-idstools) - Snort and Suricata Rule and Event Utilities in Python (Including a Rule Update Tool).
@@ -121,7 +121,7 @@ Suricata is a free intrusion detection/prevention system and network security mo
 
 ## Systems Using Suricata
 
-- [SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro.
+- [SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata-based intrusion detection system/intrusion prevention system/network security monitoring distribution.
 - [Amsterdam](https://github.com/StamusNetworks/Amsterdam) - Docker based Suricata, Elasticsearch, Logstash, Kibana, Scirius aka SELKS.
 - [pfSense](https://www.pfsense.org) - A free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality.
 - [OPNsense](https://opnsense.org) - An open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform.
