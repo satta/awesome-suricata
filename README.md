@@ -130,7 +130,7 @@ Suricata is a free intrusion detection/prevention system (IDS/IPS) and network s
 ## Training
 
 - [Experimental Suricata Training Environment](https://github.com/jasonish/experimental-suricata-training) - Experimental Suricata Training Environment.
-- [CDMCS](https://github.com/ccdcoe/CDMCS/tree/master) - Cyber Defence Monitoring Course: Rule-based Threat Detection
+- [CDMCS](https://github.com/ccdcoe/CDMCS/tree/master) - Cyber Defence Monitoring Course: Rule-based Threat Detection.
 
 
 ## Simulation and Testing
