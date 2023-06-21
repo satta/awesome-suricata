@@ -4,7 +4,7 @@
 
 > Curated list of awesome things related to Suricata.
 
-[Suricata](https://suricata.io/) is a free intrusion detection/prevention system (IDS/IPS) and network security monitoring engine.
+[Suricata](https://suricata.io/features) is a free intrusion detection/prevention system (IDS/IPS) and network security monitoring engine.
 
 ## Contents
 
