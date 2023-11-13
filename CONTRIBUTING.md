@@ -32,7 +32,7 @@ Ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- Use [title-casing](http://titlecapitalization.com) (AP style).
+- Use [title-casing](http://titlecapitalize.com) (AP style).
 - Use the following format: `[Title Case Name](link) - Description.`
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
