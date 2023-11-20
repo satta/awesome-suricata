@@ -91,6 +91,7 @@
 - [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) - Various resources that are useful when interacting with Suricata data.
 - [Malcolm](https://github.com/cisagov/Malcolm) - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 - [Evebox](https://github.com/jasonish/evebox) - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
+- [Shovel](https://github.com/ANSSI-FR/shovel) - Analyse the network flows using Suricata as backend.
 
 
 ## Rule Sets
