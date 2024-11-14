@@ -129,7 +129,7 @@
 
 ## Plugins and Extensions
 
-- [https://github.com/catenacyber/suricata-zabbix] - Zabbix application layer plugin for Suricata.
+- [suricata-zabbix](https://github.com/catenacyber/suricata-zabbix) - Zabbix application layer plugin for Suricata.
 
 
 ## Systems Using Suricata
