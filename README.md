@@ -18,6 +18,7 @@
 - [Analysis Tools](#analysis-tools)
 - [Rule Sets](#rule-sets)
 - [Rule/Security Content Management and Handling](#rulesecurity-content-management-and-handling)
+- [Plugins and Extensions](#plugins-and-extensions)
 - [Systems Using Suricata](#systems-using-suricata)
 - [Training](#training)
 - [Simulation and Testing](#simulation-and-testing)
