@@ -53,7 +53,7 @@
 - [Terraform Module for Suricata](https://github.com/onetwopunch/terraform-google-suricata) - Terraform module to setup Google Cloud packet mirroring and send packets to Suricata.
 - [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 - [suricata_exporter](https://github.com/corelight/suricata_exporter) - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
-- [Triagewall](https://github.com/aaronphifer/triagewall) - Local-LLM triage layer for Suricata alerts, using a tunable prefilter and Ollama classifier to reduce alert volume.
+- [TriageWall](https://github.com/aaronphifer/triagewall) - Local-first analyst workbench for triaging and investigating Suricata and Wazuh alerts with a tunable prefilter and Ollama classifier.
 
 
 ## Programming Libraries and Toolkits
